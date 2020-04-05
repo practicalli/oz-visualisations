@@ -2,6 +2,10 @@
 
 Exploring the kinds of visualizations that can be created with [Oz](https://github.com/metasoarous/oz).
 
+![Oz - Visualizing the weather](resources/public/oz-visualizing-the-weather.png)
+
+![Oz - Experimenting with vega-lite](resources/public/oz-experimenting-with-vega-lite.png)
+
 ## Requirements
 Clojure CLI tools are required to run this project (or create your own project.clj file and add the dependencies defined in `deps.edn`).
 
